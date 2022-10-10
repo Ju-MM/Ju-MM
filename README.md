@@ -22,16 +22,13 @@
   ![Python (aprendendo)](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=6F31C5)
-  ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=SOLID&logoColor=903AFF)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=Sequelize)
-  ![POO](https://img.shields.io/badge/-POO-333333?style=flat&logo=POO)
 - 🌐
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -44,6 +41,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=6F31C5)
+  ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=SOLID&logoColor=903AFF)
   
 <br/>
 
