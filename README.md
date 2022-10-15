@@ -1,22 +1,17 @@
-### Olá! Eu sou a Juliana Marinotti!!! 👋
+### Olá! Eu sou a Juliana Marinotti!!! <img src="https://media.tenor.com/TdXGUNE47FgAAAAj/mandalorian-baby-yoda.gif" width="70">
 
 ##### Acredito que conhecimento atrelado a tecnologia nos possibilita criar soluções incríveis para facilitar o dia a dia e a conexão entre as pessoas.
 
 <br/>
 
-- 🚀 Estou em transição de carreira cursando Desenvolvimento Web Fullstack na Trybe* (previsão de conclusão novembro de 2022)
+- 🚀 Estou em transição de carreira cursando Desenvolvimento Web Fullstack na Trybe[^1] (conclusão nov/2022)
 - 🖥️ Cursando o último módulo do curso: Ciência da Computação
 - 🐍 Atualmente aprendendo Python
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 😄 Apaixonada por vinho e café, mega fan de Disney, curiosa sobre temas relacionados ao espaço e tecnologia, adoro viajar e aproveitar as pequenas coisas da vida!
 
 <br/>
 
-<h3> 🛠 Conhecimento nas Stacks</h3>
+<h3> 🛠 Tech Stacks</h3>
 
 - 💻
   ![Python (aprendendo)](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -48,10 +43,9 @@
 
 <a href="https://github.com/Ju-MM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ju-MM&theme=buefy&show_icons=true" />
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-MM&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-MM&theme=buefy&layout=compact" />
 </a>
 
 <br/>
 
----
-###### *O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+[^1]:O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
