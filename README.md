@@ -37,6 +37,12 @@
 - 🖥
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=6F31C5)
+- ✅
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
+  ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha&logoColor=8D6748)
+  ![Chai](https://img.shields.io/badge/-Chai-333333?style=flat&logo=chai&logoColor=A30701)
+  ![Sinon](https://img.shields.io/badge/-Sinon-333333?style=flat&logo=sinon)
+- 📖
   ![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat&logo=SOLID&logoColor=903AFF)
   
 <br/>
