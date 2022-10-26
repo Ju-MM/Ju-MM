@@ -9,6 +9,9 @@
 - 🐍 Atualmente aprendendo Python
 - 😄 Apaixonada por vinho e café, mega fan de Disney, curiosa sobre temas relacionados ao espaço e tecnologia, adoro viajar e aproveitar as pequenas coisas da vida!
 - 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, JAVA ...
+<!-- 
+- 📜 Conheça minha trajetória profissional aqui:  ![Histórico Profissional](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+-->
 
 <br/>
 
