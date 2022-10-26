@@ -8,7 +8,7 @@
 - 🖥️ Cursando o último módulo do curso: Ciência da Computação
 - 🐍 Atualmente aprendendo Python
 - 😄 Apaixonada por vinho e café, mega fan de Disney, curiosa sobre temas relacionados ao espaço e tecnologia, adoro viajar e aproveitar as pequenas coisas da vida!
-- 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, etc.
+- 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, JAVA ...
 
 <br/>
 
