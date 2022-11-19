@@ -4,9 +4,10 @@
 
 <br/>
 
-- 🚀 Estou em transição de carreira cursando Desenvolvimento Web Fullstack na Trybe[^1] (conclusão nov/2022)
+- 🚀 Estou em transição de carreira cursando Desenvolvimento Web Fullstack na Trybe[^1] (conclusão dez/2022)
 - 🖥️ Cursando o último módulo do curso: Ciência da Computação
 - 🐍 Atualmente aprendendo Python
+- 🏢 Buscando uma oportunidade para consolidar meus aprendizados.
 - 😄 Apaixonada por vinho e café, mega fan de Disney, curiosa sobre temas relacionados ao espaço e tecnologia, adoro viajar e aproveitar as pequenas coisas da vida!
 - 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, JAVA ...
 - 📜 Conheça minha trajetória profissional aqui: 
