@@ -59,12 +59,12 @@
   ![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=flat&logo=CI/CD&logoColor=903AFF)
   
 <br/>
-
+<!--
 <a href="https://github.com/Ju-MM">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ju-MM&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-MM&theme=buefy&layout=compact" />
 </a>
-
+-->
 <br/>
 
 [^1]:O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
