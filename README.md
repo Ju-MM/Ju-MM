@@ -4,12 +4,12 @@
 
 <br/>
 
-- 🚀 Estou em transição de carreira cursando Desenvolvimento Web Fullstack na Trybe[^1] (conclusão dez/2022)
-- 🖥️ Cursando o último módulo do curso: Ciência da Computação
+- 🚀 Estou em transição de carreira e finalizei em dez/2022 o curso de Desenvolvimento Web Fullstack na Trybe[^1]
+- 🖥️ Continuando os estudos para aprimorar os conhecimentos adquiridos no cruso.
 - 🐍 Atualmente aprendendo Python
 - 🏢 Buscando uma oportunidade para consolidar meus aprendizados.
 - 😄 Apaixonada por vinho e café, mega fan de Disney, curiosa sobre temas relacionados ao espaço e tecnologia, adoro viajar e aproveitar as pequenas coisas da vida!
-- 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, JAVA ...
+- 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, novas linguagens ...
 - 📜 Conheça minha trajetória profissional aqui: 
 <a href="https://www.linkedin.com/in/juliana-marinotti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=(https://www.linkedin.com/in/juliana-marinotti)/" width="75"></a>
 
