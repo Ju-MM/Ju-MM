@@ -1,12 +1,11 @@
 ### Olá! Eu sou a Juliana Marinotti!!! <img src="https://media.tenor.com/TdXGUNE47FgAAAAj/mandalorian-baby-yoda.gif" width="70">
 
-##### Acredito que conhecimento atrelado a tecnologia nos possibilita criar soluções incríveis para facilitar o dia a dia e a conexão entre as pessoas.
+##### Acredito que conhecimento atrelado a tecnologia nos possibilita encontrar soluções incríveis para os desafios que enfrentamos no dia a dia.
 
 <br/>
 
-- 🚀 Estou em transição de carreira e finalizei em dez/2022 o curso de Desenvolvimento Web Fullstack na Trybe[^1]
-- 🖥️ Continuando os estudos para aprimorar os conhecimentos adquiridos no cruso.
-- 🐍 Atualmente aprendendo Python
+- 🚀 Estou em transição de carreira e finalizei em jan/2023 o curso de Desenvolvimento Web Fullstack na Trybe[^1]
+- 🖥️ Atualmente cursando Data Analytics da Google.
 - 🏢 Buscando uma oportunidade para consolidar meus aprendizados.
 - 😄 Apaixonada por vinho e café, mega fan de Disney, curiosa sobre temas relacionados ao espaço e tecnologia, adoro viajar e aproveitar as pequenas coisas da vida!
 - 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, novas linguagens ...
@@ -68,3 +67,5 @@
 <br/>
 
 [^1]:O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+
+<!-- - 🐍 Atualmente aprendendo Python -->
