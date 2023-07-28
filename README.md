@@ -1,14 +1,13 @@
-### Olá! Eu sou a Juliana Marinotti!!! <img src="https://media.tenor.com/TdXGUNE47FgAAAAj/mandalorian-baby-yoda.gif" width="70">
+### Olá! Eu sou a Juliana Marinotti!!!  <img src="https://media.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif" width="70">
 
 ##### Acredito que conhecimento atrelado a tecnologia nos possibilita encontrar soluções incríveis para os desafios que enfrentamos no dia a dia.
 
 <br/>
 
-- 🚀 Estou em transição de carreira e finalizei em jan/2023 o curso de Desenvolvimento Web Fullstack na Trybe[^1]
-- 🖥️ Atualmente cursando Data Analytics da Google.
-- 🏢 Buscando uma oportunidade para consolidar meus aprendizados.
+- 🚀 Sou formada em Marketing de Varejo com MBA Executivo em Gestão Estratégica e Econômica de Negócios. Em busca de novos conhecimentos finalizei em jan/2023 o curso de Desenvolvimento Web Fullstack na Trybe[^1].
+- 🖥️ Recentemente finalizei o curso Data Analytics da Google.
+- 📚 Nesse momento, foco em tornar avançados meus conhecimentos na área de dados e nas ferramentas e linguagens **MySQL**, **Python**, **R**, **Tableau**, **estrutura de dados**, **banco de dados** e **SCRUM**.
 - 😄 Apaixonada por vinho e café, mega fan de Disney, curiosa sobre temas relacionados ao espaço e tecnologia, adoro viajar e aproveitar as pequenas coisas da vida!
-- 📚 Ansiosa para aprender sobre novos temas como cybersecurity, cloud, novas linguagens ...
 - 📜 Conheça minha trajetória profissional aqui: 
 <a href="https://www.linkedin.com/in/juliana-marinotti/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=(https://www.linkedin.com/in/juliana-marinotti)/" width="75"></a>
 
@@ -60,7 +59,7 @@
 <br/>
 
 <a href="https://github.com/Ju-MM">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ju-MM&theme=buefy&show_icons=true" />
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ju-MM&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ju-MM&theme=buefy&layout=compact" />
 </a>
 
@@ -68,4 +67,4 @@
 
 [^1]:O programa conta com mais de 1.500 horas de aulas e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-<!-- - 🐍 Atualmente aprendendo Python -->
+<!-- 🐍 -->
